@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:vine"
+        }
+    ],
+    "result": {
+        "item": "minecraft:rooted_dirt",
+        "count": 1
+    }
+}
