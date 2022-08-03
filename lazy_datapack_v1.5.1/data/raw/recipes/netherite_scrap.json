@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherite_ingot"
+        }
+    ],
+    "result": {
+        "item": "netherite_scrap",
+        "count": 4
+    }
+}

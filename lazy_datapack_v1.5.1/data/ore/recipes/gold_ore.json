@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "121",
+        "212",
+        "121"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:stone"
+        },
+        "2": {
+            "item": "minecraft:raw_gold"
+        }
+    },
+    "result": {
+        "item": "minecraft:gold_ore",
+        "count": 1
+    }
+}
